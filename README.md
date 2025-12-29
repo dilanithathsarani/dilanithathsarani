@@ -57,14 +57,14 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanithathsarani&show_icons=true&theme=blue&hide_title=false" alt="GitHub Stats" height="150"/>
-  <!-- GitHub streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanithathsarani&theme=blue&hide_border=false" alt="GitHub Streak" height="150"/>
+  <!-- Overall stats (fast) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dilanithathsarani&show_icons=true&theme=blue" alt="GitHub Stats" height="150"/>
+  <!-- Top languages (fast) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dilanithathsarani&layout=compact&theme=blue" alt="Top Languages" height="150"/>
 </p>
 <p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanithathsarani&layout=compact&theme=blue&hide_title=false" alt="Top Languages" height="150"/>
+  <!-- Streak stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dilanithathsarani&theme=blue" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
