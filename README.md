@@ -1,98 +1,164 @@
-<h1 align="center" style="color:#1E90FF; text-shadow: 0 0 10px #1E90FF, 0 0 20px #1E90FF;">👋 Hi, I'm Dilani! ✨</h1>
 
-<h3 align="center" style="text-align:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=900&lines=Undergraduate+%7C+Sabaragamuwa+University+of+Sri+Lanka;QA+Enthusiast+%7C+Web+Developer+%7C+Mobile+App+Developer" alt="Typing SVG" style="filter: drop-shadow(0 0 5px #1E90FF) drop-shadow(0 0 10px #1E90FF)"/>
-</h3>
+<div align="center">
 
-<p align="center">
-  <span style="background:#e34f26;color:white;padding:5px 10px;border-radius:5px;margin:3px;">HTML5 💻</span>
-  <span style="background:#1572B6;color:white;padding:5px 10px;border-radius:5px;margin:3px;">CSS3 🎨</span>
-  <span style="background:#F7DF1E;color:black;padding:5px 10px;border-radius:5px;margin:3px;">JavaScript ⚡</span>
-  <span style="background:#61DAFB;color:black;padding:5px 10px;border-radius:5px;margin:3px;">React ⚛️</span>
-  <span style="background:#339933;color:white;padding:5px 10px;border-radius:5px;margin:3px;">Node.js 🛠️</span>
-  <span style="background:#02569B;color:white;padding:5px 10px;border-radius:5px;margin:3px;">Flutter 📱</span>
-  <span style="background:#4479A1;color:white;padding:5px 10px;border-radius:5px;margin:3px;">MySQL 💾</span>
-</p>
+# Hi, I'm Dilani Thathsarani 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Computing+Undergraduate;Software+Developer;QA+Enthusiast" alt="Computing Undergraduate, Software Developer, QA Enthusiast" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Studying at **Faculty of Computing, Department of Computing & Information Systems**  
-- 💻 Skilled in **Web Development, Programming, and Databases**  
-- 🌱 Currently learning **Flutter (Mobile App Development)**  
-- 🎯 Future Goal: Become a **Quality Assurance Engineer**  
-- ✨ Fun Fact: **“Quality in software is not an act, it’s a habit.”**
+
+I'm a Computing and Information Systems undergraduate at Sabaragamuwa University of Sri Lanka with a strong interest in software engineering, web and mobile application development, and software quality assurance.
+
+I enjoy transforming ideas into practical applications, designing intuitive user interfaces, and developing reliable software solutions. Through academic and personal projects, I have gained experience in full-stack development, database management, API integration, and software testing.
+
+I'm continuously expanding my technical knowledge and exploring new technologies to become a well-rounded software professional.
+
+- 🎓 BSc (Hons) in Computing & Information Systems
+- 💻 Interested in full-stack web and mobile development
+- 🧪 Exploring manual testing, API testing, and automation testing
+- 🚀 Passionate about building user-friendly and reliable applications
+- 🌱 Always learning, experimenting, and improving
 
 ---
 
-## 💡 Interests
-<p align="left">
-  <img src="https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game_Development-FF6F61?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile_App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quality_Assurance-0A66C2?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber_Security-008080?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,c" alt="Java, JavaScript, PHP, C"/>
 </p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="MySQL, MongoDB, Firebase"/>
+</p>
+
+### 🧪 Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Selenium, Postman"/>
+</p>
+
+Manual Testing · API Testing · Test Case Design
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" alt="Git, GitHub, VS Code, Figma, Android Studio"/>
+</p>
+
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+## 🚀 Featured Projects
+
+### 🛍️ ArtisanHub — Handmade Crafts Marketplace
+
+A full-stack marketplace designed to connect local artisans with customers through an online shopping experience.
+
+**Technologies:** React, Node.js, Express.js, MongoDB
+
+- Developing separate frontend and backend applications.
+- Building product discovery, seller profiles, and shopping functionality.
+- Integrating REST APIs and reusable React components.
+
+[Frontend Repository](https://github.com/dilanithathsarani/ArtisanHub-Frontend) · [Backend Repository](https://github.com/dilanithathsarani/ArtisanHub-Backend)
+
+### 🤖 AI Job Portal
+
+A MERN-stack job portal that uses AI to support job seekers with resume analysis and application management.
+
+**Technologies:** React, Node.js, Express.js, MongoDB, Gemini API
+
+- Implemented authentication and role-based access control.
+- Integrated AI-powered resume analysis and cover letter generation.
+- Developed job application and status management features.
+
+[Frontend Repository](https://github.com/dilanithathsarani/Job-Portal---frontend) · [Backend Repository](https://github.com/dilanithathsarani/Job-Portal---Backend)
+
+### ⏰ Smart AI Alarm System
+
+A smart alarm application combining mobile development, machine learning, and IoT concepts.
+
+**Technologies:** Flutter, Flask, Firebase, MongoDB, LightGBM, ESP32
+
+- Contributed to the mobile application interface and frontend functionality.
+- Worked on backend functionality and system integration.
+- Collaborated with a team to develop an AI-powered alarm solution.
+
+[Project Repository](https://github.com/Ashiy-Ishan/Smart_AI_Alarm)
 
 ---
 
-## 📊 GitHub Stats 
-<p align="center">
-  <!-- Overall stats (fast) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=dilanithathsarani&show_icons=true&theme=blue" alt="GitHub Stats" height="150"/>
-  <!-- Top languages (fast) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dilanithathsarani&layout=compact&theme=blue" alt="Top Languages" height="150"/>
-</p>
-<p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dilanithathsarani&theme=blue" alt="GitHub Streak" height="150"/>
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dilanithathsarani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanithathsarani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=dilanithathsarani&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/dilani-thathsarani-4a4984316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dilanithathsarani2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dilanithathsarani&theme=tokyo-night&hide_border=true&area=true&custom_title=My+GitHub+Contribution+Activity" alt="GitHub Contribution Activity Graph"/>
+
+</div>
 
 ---
 
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilanithathsarani&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
-</p>
+## 🤝 Connect With Me
 
----
+<div align="center">
 
-### ✨ Activity Graph 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilanithathsarani&bg_color=a6e1ed&color=061423&line=373bb3&point=403d3d&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+<a href="https://www.linkedin.com/in/dilani-thathsarani-4a4984316">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dilanithathsarani2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/dilanithathsarani">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://portfolio-dilanithathsarani.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### ✨ Always learning. Always building. Always improving.
+
+</div>
